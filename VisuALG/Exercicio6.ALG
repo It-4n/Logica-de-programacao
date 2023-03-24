@@ -22,15 +22,15 @@ media <- (nota1 + nota2 + nota3) / 3
 limpatela
 
 escreval("Nome: ", nome)
-escreval("Idade: ", idade)
-escreval("Notas: ", nota1, (" -"), nota2, (" -"), nota3)
-escreval("Média: ", media)
+escreval("Idade: ", idade, " anos")
+escreval("Notas: ", nota1, " -", nota2, " -", nota3)
+escreval("MÃ©dia: ", media, " pontos")
 escreval("")
 
 se(media < 7)entao
-    escreva("Situação: Reprovado")
+    escreva("SituaÃ§Ã£o: Reprovado")
 senao
-    escreva("Situação: Aprovado")
+    escreva("SituaÃ§Ã£o: Aprovado")
 fimse
 
 Fimalgoritmo
