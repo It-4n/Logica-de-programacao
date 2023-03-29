@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Aposentadoria"
 Var
    codigo, idade, anoAtual, anosTrabalho, anoNascimento: inteiro
    
