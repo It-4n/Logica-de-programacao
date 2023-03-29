@@ -26,6 +26,6 @@ media <- (nota1 + nota2 + nota3 + nota4) / 4
 escreval("Nome: ", nome)
 escreval("Idade: ", idade)
 escreval("Notas: ", nota1, " |", nota2, " |", nota3, " |", nota4)
-escreval("Média: ", media)
+escreval("MÃ©dia: ", media)
 
 Fimalgoritmo
