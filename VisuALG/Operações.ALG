@@ -1,18 +1,18 @@
-Algoritmo "Operações com números"
+Algoritmo "OperaÃ§Ãµes com nÃºmeros"
 Var
    primeiroNumero, segundoNumero, soma, subtracao, multiplicacao, divisao: real
    
 Inicio
-escreval("Digite um número")
+escreval("Digite um nÃºmero")
 leia(primeiroNumero)
-escreval("Digite outro número")
+escreval("Digite outro nÃºmero")
 leia(segundoNumero)
 
 limpatela
 
 escreval("")
-escreval("Primeiro número =", primeiroNumero)
-escreval("Segundo número =", segundoNumero)
+escreval("Primeiro nÃºmero =", primeiroNumero)
+escreval("Segundo nÃºmero =", segundoNumero)
 escreval("")
 
 soma <- primeiroNumero + segundoNumero ;
@@ -20,15 +20,15 @@ escreval("Soma =", soma)
 escreval("")
 
 subtracao <- primeiroNumero - segundoNumero ;
-escreval("Subtração =", subtracao)
+escreval("SubtraÃ§Ã£o =", subtracao)
 escreval("")
 
 multiplicacao <- primeiroNumero * segundoNumero ;
-escreval("Multiplicação =", multiplicacao)
+escreval("MultiplicaÃ§Ã£o =", multiplicacao)
 escreval("")
 
 divisao <- primeiroNumero / segundoNumero ;
-escreval("Divisão =", divisao)
+escreval("DivisÃ£o =", divisao)
 escreval("")
 
 Fimalgoritmo
