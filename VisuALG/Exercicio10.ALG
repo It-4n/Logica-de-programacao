@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Maior e menor"
 Var
    numero1, numero2, numero3: real
 
