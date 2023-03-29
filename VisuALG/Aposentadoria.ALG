@@ -8,13 +8,13 @@ anoAtual <- 2023
 
 escreval("Ano atual: ", anoAtual)
 escreval("")
-escreva("Digite seu código: ")
+escreva("Digite seu cÃ³digo: ")
 leia(codigo)
 escreval("")
-escreva("Digite o ano em que você nasceu: ")
+escreva("Digite o ano em que vocÃª nasceu: ")
 leia(anoNascimento)
 escreval("")
-escreva("Digite quantos anos de serviço você possui: ")
+escreva("Digite quantos anos de serviÃ§o vocÃª possui: ")
 leia(anosTrabalho)
 
 idade <- anoAtual - anoNascimento
@@ -22,13 +22,13 @@ idade <- anoAtual - anoNascimento
 limpatela
 
 escreval("Idade: ", idade)
-escreval("Anos de serviço: ", anosTrabalho)
+escreval("Anos de serviÃ§o: ", anosTrabalho)
 escreval("")
 
 se(idade >= 65) ou (anosTrabalho >= 30)entao
-  escreval("Você está apto para a aposentadoria!")
+  escreval("VocÃª estÃ¡ apto para a aposentadoria!")
 senao
-  escreval("Você está inapto para a aposentadoria!")
+  escreval("VocÃª estÃ¡ inapto para a aposentadoria!")
 fimse
 
 Fimalgoritmo
