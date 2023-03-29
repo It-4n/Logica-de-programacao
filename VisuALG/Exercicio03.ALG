@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Notas do aluno"
 Var
    nome: caractere
    idade: inteiro
