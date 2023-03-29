@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Vota√ß√£o"
 Var
    idade: inteiro
 
@@ -11,11 +11,11 @@ escreval("Idade: ", idade)
 escreval("")
 
 se(idade < 18)ou(idade > 65)entao
-  escreval("VocÍ n„o tem obrigaÁ„o legal de votar.")
+  escreval("Voc√™ n√£o tem obriga√ß√£o legal de votar.")
 fimse
 
 se(idade >= 18)entao
-  escreval("Seu voto È obrigatÛrio!")
+  escreval("Seu voto √© obrigat√≥rio!")
 fimse
 
 Fimalgoritmo
