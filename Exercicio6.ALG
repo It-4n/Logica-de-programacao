@@ -1,4 +1,4 @@
-Algoritmo  "semnome"
+Algoritmo  "Aprovado ou Reprovado"
 Var
     nome: caractere
     idade: inteiro
