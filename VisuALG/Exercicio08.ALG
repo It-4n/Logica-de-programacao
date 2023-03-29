@@ -1,4 +1,4 @@
-Algoritmo "semnome"
+Algoritmo "Usuário e senha"
 //login: Teste
 //senha: 1234
 Var
