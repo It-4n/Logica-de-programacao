@@ -1,4 +1,4 @@
-Algoritmo "¡rea do tri‚ngulo"
+Algoritmo "√Årea do tri√¢ngulo"
 Var
    base, altura, area: real
 
@@ -14,6 +14,6 @@ escreval("Base = ", base)
 escreval("Altura = ", altura)
 area <- (base * altura) / 2
 escreval("")
-escreva("¡rea = ", area)
+escreva("√Årea = ", area)
 
 fimalgoritmo
