@@ -10,7 +10,7 @@ i, j: inteiro
 Inicio
 
 para i de 1 ate 2 faca
-  escreval("(Identificação)")
+  escreval("[IdentificaÃ§Ã£o]")
   escreval()
   escreva("Digite seu nome: ")
   leia(nome[i])
@@ -19,7 +19,7 @@ para i de 1 ate 2 faca
   escreval()
   
 para j de 1 ate 1 faca
-  escreval("(Medidas)")
+  escreval("[Medidas]")
   escreval()
   escreva("Digite sua altura: ")
   leia(altura[i,j])
@@ -34,12 +34,12 @@ fimpara
 limpatela
 
 para i de 1 ate 2 faca
-  escreval("(Identificação)")
+  escreval("[IdentificaÃ§Ã£o]")
   escreval()
   escreval("Nome: ", nome[i])
   escreval("Idade:", idade[i])
   escreval()
-  escreval("(Medidas)")
+  escreval("[Medidas]")
   escreval()
   escreval("Altura:", altura[i,j], " Cm")
   escreval("Peso:", peso[i,j], " KG")
