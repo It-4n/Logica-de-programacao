@@ -2,20 +2,20 @@ Algoritmo "semnome"
 
 Var
 nota: vetor[1..3,1..2] de real
+media: vetor[1..3] de real
 disc: vetor[1..3] de caracter
 i, j: inteiro
 soma: real
-media: vetor[1..3] de real
 
 Inicio
 
 para i de 1 ate 3 faca
-  escreva(i, "ª Disciplina: ")
+  escreva(i, "Âª Disciplina: ")
   leia(disc[i])
   escreval()
   
 para j de  1 ate 2 faca
-  escreva("Digite a ",j,"ª nota da", i,"ª disciplina: ")
+  escreva("Digite a ",j,"Âª nota da", i,"Âª disciplina: ")
   leia(nota[i,j])
 
 soma <- soma + nota[i,j]
@@ -32,16 +32,16 @@ fimpara
 limpatela
 
 para i de 1 ate 3 faca
-  escreval(i,"ª Disciplina: ", disc[i])
+  escreval(i,"Âª Disciplina: ", disc[i])
   escreval()
 
 para j de 1 ate 2 faca
-  escreval(j, "ª Nota: ", nota[i,j])
+  escreval(j, "Âª Nota: ", nota[i,j])
 
 fimpara
 
   escreval()
-  escreval(" Média:", media[i])
+  escreval(" MÃ©dia:", media[i])
   escreval()
   
 fimpara
